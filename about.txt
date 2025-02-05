@@ -10,7 +10,9 @@ Computer Engineering Student
 Dr. D. Y. Patil Technical Campus, Pune
 
 Overview:
-This project introduces an innovative approach to controlling PowerPoint presentations using hand gestures, eliminating the need for traditional input devices such as a keyboard or mouse. By leveraging computer vision and gesture recognition techniques, the system enhances user experience by enabling touchless navigation through slides.
+This project introduces an innovative approach to controlling PowerPoint presentations using hand gestures, eliminating the need for traditional 
+input devices such as a keyboard or mouse. By leveraging computer vision and gesture recognition techniques, the system enhances user experience 
+by enabling touchless navigation through slides.
 
 Technologies Used:
 
@@ -30,7 +32,9 @@ Touchless Presentation Control for Educators & Professionals
 Enhanced Accessibility for Individuals with Disabilities
 Smart Conference Room Automation
 Conclusion:
-This project demonstrates the practical implementation of hand gesture recognition in real-world applications, improving the ease of interacting with presentation software. The system offers a natural and intuitive way to control slides, making presentations more dynamic and engaging.
+This project demonstrates the practical implementation of hand gesture recognition in real-world applications, 
+improving the ease of interacting with presentation software. The system offers a natural and intuitive way 
+to control slides, making presentations more dynamic and engaging.
 
 
 
