@@ -1,0 +1,47 @@
+**** PPT control using Hand Gesture****
+**** By Piyush Bhadade ****
+
+
+Project Title: PPT Control Using Hand Gestures
+
+Developed By:
+Piyush Bhadade
+Computer Engineering Student
+Dr. D. Y. Patil Technical Campus, Pune
+
+Overview:
+This project introduces an innovative approach to controlling PowerPoint presentations using hand gestures, eliminating the need for traditional input devices such as a keyboard or mouse. By leveraging computer vision and gesture recognition techniques, the system enhances user experience by enabling touchless navigation through slides.
+
+Technologies Used:
+
+OpenCV (Computer Vision)
+Python
+MediaPipe (Hand Tracking)
+PyAutoGUI (Automating PPT Controls)
+Key Features:
+
+Slide Navigation (Next/Previous)
+Start and Stop Presentation Mode
+Gesture-based Interaction for a Seamless Experience
+User-friendly and Efficient
+Applications:
+
+Touchless Presentation Control for Educators & Professionals
+Enhanced Accessibility for Individuals with Disabilities
+Smart Conference Room Automation
+Conclusion:
+This project demonstrates the practical implementation of hand gesture recognition in real-world applications, improving the ease of interacting with presentation software. The system offers a natural and intuitive way to control slides, making presentations more dynamic and engaging.
+
+
+
+req.
+
+import win32com.client
+import cv2
+import os
+import threading
+import tkinter as tk
+from tkinter import filedialog, messagebox
+import pyautogui
+from PIL import Image, ImageTk
+from cvzone.HandTrackingModule import HandDetector
